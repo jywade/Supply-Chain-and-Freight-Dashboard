@@ -6,6 +6,7 @@ In this project, I created an interactive and dynamic dashboard designed to prov
 * Tracked expenses
 * Freight expenses
 * Freight tonnage by load type:
+  
     * Sand
     * Wood
     * Iron
