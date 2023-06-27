@@ -14,3 +14,4 @@ In this project, I created an interactive and dynamic dashboard designed to prov
 1. Leveraged the power of pivot tables to aggregate and summarize data, enabling users to quickly identify trends, patterns, and outliers in the supply chain and freight operations.
 2. Inclusion of a monthly slicer, allowing users to select a specific month to view. 
 3. Dynamic filtering capability enhances usability and enables users to focus on specific time periods, making it easier to track performance trends and compare data across different months.
+4. Utilized simple formulas and functions such as VLOOKUP, COUNTIF, COUNTA, and IFERROR.
